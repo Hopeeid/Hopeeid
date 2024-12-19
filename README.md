@@ -1,7 +1,13 @@
 # 💫 About Me
 
-I'm Hope! I'm a progressive data scientist with strong interest in human genetics.
-I love detecting patterns in data to gain insights I like learning something new.
+Hi there! 👋
+I'm a progressive data scientist with a strong passion for human genetics. 🔬
+I thrive on detecting patterns in data to uncover meaningful
+insights.
+ I also enjoy the challenge of learning something new every day. 🌟
+
+Feel free to explore my repositories and connect—
+let's turn data into impactful stories! 🚀
 
 ## 🌐 Socials
 
